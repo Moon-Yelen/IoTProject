@@ -1,0 +1,4 @@
+12주차
+- branch
+- git log option(--oneline, --graph, --all)
+- git switch [branch name]
